@@ -17,7 +17,7 @@ namespace headerFile
         public Car(){
             yearModel = 1999;
             make = "default";
-            speed = 999;
+            speed = 0;
         }
 
         public void accelerate(){
